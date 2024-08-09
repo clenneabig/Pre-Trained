@@ -1,0 +1,13 @@
+GH016363_15: Orange-RedSilver
+GH016363_16: Lime-PurpleBlue
+GH016363_19: LimePurple-Green
+GH016366_3: Lime-PurpleBlue
+GH016369_17: Lime-PurpleBlue
+GH016369_4: LimePurple-Green
+GH016830_10: Orange-RedSilver
+GH016830_12: LimePurple-Green
+GH016830_16: LimePurple-Green
+GH016832_0: LimePurple-Green
+GH016832_6: Orange-RedSilver
+GH016832_9: Orange-RedSilver
+GH017315_1: Orange-RedSilver

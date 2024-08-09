@@ -1,0 +1,8 @@
+GH016189_10: PurpleRed-Red
+GH016189_2: PurpleRed-Red
+GH016189_9: PurpleRed-Red
+GH016191_0: PurpleRed-Red
+GH016191_2: PurpleRed-Red
+GH016191_3: PurpleRed-Red
+GH016193_10: PurpleRed-Red
+GH016200_2: PurpleRed-Red
